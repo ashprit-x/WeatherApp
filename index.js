@@ -1,7 +1,7 @@
 
 
 let weather = {
-    apiKey: "2126ccedfe86b1c932b6631c173bc81a",
+    apiKey: "",//your api key here
     lat : " ",
     long : " ",
     fetchCoords: async function(cityName) {
